@@ -12,7 +12,7 @@ npm run dev
 # To Do List
 <br>
 * GUI For To Do List<br>
-![1st Interface](/tree/main/pics/Screenshot_1.png)
+![1st Interface](https://github.com/mhuzaifi0604/Codeaza-Assignments/tree/main/pics)
 * Adding Tasks to To Do List<br>
 [!tasks](./pics/Screenshot_2.png)
 * Deleting Taks from To Do List<br>
