@@ -11,16 +11,16 @@ npm run dev
 ``` 
 # To Do List
 <br>
-* GUI For To Do List<br>
-<img src="./pics/Screenshot_1.png" alt="Alt text">
-* Adding Tasks to To Do List<br>
-[!tasks](./pics/Screenshot_2.png)
-* Deleting Taks from To Do List<br>
-[!delete](./pics/Screenshot_3.png)
+* GUI For To Do List<br><br>
+<img src="./pics/Screenshot_1.png" alt="gui"><br>
+* Adding Tasks to To Do List<br><br>
+<img src="./pics/Screenshot_2.png" alt="tasks"><br>
+* Deleting Taks from To Do List<br><br>
+<img src="./pics/Screenshot_3.png" alt="delete"><br>
 
  # Currency Converter
 <br>
-* GUI For Currency converter<br>
-[!gui](./pics/Screenshot_5.png)
-* Converted Price<br>
-[!price](./pics/Screenshot_6.png)
+* GUI For Currency converter<br><br>
+<img src="./pics/Screenshot_5.png" alt="gui"><br>
+* Converted Price<br><br>
+<img src="./pics/Screenshot_6.png" alt="price"><br>
